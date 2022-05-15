@@ -6,6 +6,8 @@ It can be used in a narrow space because the sensor has an area of a few cm<sup>
 """
 +++
 
+![Inputting "hello" using Yarnkey.](./hero.png)
+
 <!-- TODO: shortcode-ify -->
 Contributors: Ken Shibata, [Koya Narumi](https://narumi.me/profile)
 
@@ -18,4 +20,5 @@ The microcomputer recognizes characters drawn in a 2D pattern on the sensor.
 It can be used in a narrow space because the sensor has an area of a few cm<sup>2</sup>.
 
 [User Evaluation App](https://yarnkey.nyiyui.ca)
+&bull; [TSF 2022/CWSF 2022 Exhibition](https://projectboard.world/ysc/project/kyokukey-wearable-input-device-using-conductive-threads)
 {{< youtube "dMT6_UEli-g" >}}

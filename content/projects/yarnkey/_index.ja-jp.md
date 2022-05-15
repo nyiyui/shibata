@@ -7,6 +7,8 @@ Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で�
 """
 +++
 
+![Inputting "hello" using Yarnkey.](./hero.png)
+
 Contributors: 柴田 謙, [鳴海絋也](https://narumi.me/profile)
 
 モバイルデバイスの普及により、ウェアラブルな文字入力デバイスの要求が高まってきている。
@@ -16,4 +18,5 @@ Contributors: 柴田 謙, [鳴海絋也](https://narumi.me/profile)
 センサ上に2Dパターンとして描いた文字をマイコンが認識し、USBを介して接続したパソコンに伝える。立った状態で手を横に下したまま、指先を数センチ四方動かすだけで入力できるため、狭い空間でも入力が可能である。
 
 [ユーザーテストアプリ](https://yarnkey.nyiyui.ca)
+&bull; [TSF 2022/CWSF 2022 Exhibition](https://projectboard.world/ysc/project/kyokukey-wearable-input-device-using-conductive-threads)
 {{< youtube "dMT6_UEli-g" >}}
