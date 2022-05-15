@@ -19,6 +19,10 @@ defaultContentLanguage = 'en-ca'
         name = 'Projects'
         url = '/projects'
         weight = 20
+      [[languages.en-ca.menu.main]]
+        name = 'Etc'
+        url = '/etc'
+        weight = 30
   [languages.ja-jp]
     title = '柴田 謙'
     languageName = '日本語'
@@ -31,6 +35,10 @@ defaultContentLanguage = 'en-ca'
         name = 'プロジェクト'
         url = '/projects'
         weight = 20
+      [[languages.ja-jp.menu.main]]
+        name = 'その他'
+        url = '/etc'
+        weight = 30
 
 [outputs]
   home = [ "HTML", "RSS" ]

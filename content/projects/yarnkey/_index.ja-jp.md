@@ -15,8 +15,5 @@ Contributors: 柴田 謙, [鳴海絋也](https://narumi.me/profile)
 新しいウェアラブルデバイスは、ズボンの太腿部分に縫い付けられた導電糸により、6点のタッチセンシングを行う。
 センサ上に2Dパターンとして描いた文字をマイコンが認識し、USBを介して接続したパソコンに伝える。立った状態で手を横に下したまま、指先を数センチ四方動かすだけで入力できるため、狭い空間でも入力が可能である。
 
-[ドラフト (日本語)](/projects/yarnkey/yarnkey_draft_ja-jp.pdf)
-&bull; [ユーザーテストアプリ](https://yarnkey.nyiyui.ca)
-&bull; [ユーザーテストの生データ](https://kiki2.nyiyui.ca/yarnkey/data)
-([csv](https://kiki2.nyiyui.ca/yarnkey/data.csv))
+[ユーザーテストアプリ](https://yarnkey.nyiyui.ca)
 {{< youtube "dMT6_UEli-g" >}}

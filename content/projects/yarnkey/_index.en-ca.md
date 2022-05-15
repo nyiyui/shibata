@@ -17,7 +17,5 @@ The new wearable device provides 6-point touch sensing with conductive threads s
 The microcomputer recognizes characters drawn in a 2D pattern on the sensor.
 It can be used in a narrow space because the sensor has an area of a few cm<sup>2</sup>.
 
-[Draft (Japanese)](/projects/yarnkey/yarnkey_draft_ja-jp.pdf)
-&bull; [User Evaluation App](https://yarnkey.nyiyui.ca)
-&bull; [User Evaluation Raw Data](https://kiki2.nyiyui.ca/yarnkey/data)
+[User Evaluation App](https://yarnkey.nyiyui.ca)
 {{< youtube "dMT6_UEli-g" >}}
