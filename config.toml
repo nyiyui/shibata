@@ -1,0 +1,56 @@
+baseURL = 'https://shibata.nyiyui.ca'
+
+theme = 'PaperMod'
+
+enableGitInfo = true
+
+defaultContentLanguage = 'en-ca'
+
+[languages]
+  [languages.en-ca]
+    title = 'Ken Shibata'
+    languageName = 'English'
+    [languages.en-ca.menu]
+      [[languages.en-ca.menu.main]]
+        name = 'About'
+        url = '/'
+        weight = 10
+      [[languages.en-ca.menu.main]]
+        name = 'Projects'
+        url = '/projects'
+        weight = 20
+  [languages.ja-jp]
+    title = '柴田 謙'
+    languageName = '日本語'
+    [languages.ja-jp.menu]
+      [[languages.ja-jp.menu.main]]
+        name = '自己紹介'
+        url = '/'
+        weight = 10
+      [[languages.ja-jp.menu.main]]
+        name = 'プロジェクト'
+        url = '/projects'
+        weight = 20
+
+[outputs]
+  home = [ "HTML", "RSS" ]
+
+[markup.goldmark.renderer]
+  unsafe = true
+  xhtml = true
+
+  [markup.highlight]
+    codeFences = true
+
+  [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+  
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = 'github'
