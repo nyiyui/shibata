@@ -6,7 +6,7 @@ It can be used in a narrow space because the sensor has an area of a few cm<sup>
 """
 +++
 
-![Inputting "hello" using Yarnkey.](./hero.png)
+![Inputting "hello" using Yarnkey.](/projects/yarnkey/hero.png)
 
 <!-- TODO: shortcode-ify -->
 Contributors: Ken Shibata, [Koya Narumi](https://narumi.me/profile)

@@ -7,7 +7,7 @@ Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で�
 """
 +++
 
-![Inputting "hello" using Yarnkey.](./hero.png)
+![Inputting "hello" using Yarnkey.](/projects/yarnkey/hero.png)
 
 Contributors: 柴田 謙, [鳴海絋也](https://narumi.me/profile)
 
