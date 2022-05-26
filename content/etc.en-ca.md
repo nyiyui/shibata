@@ -14,8 +14,8 @@ GitHub: [nyiyui](https://github.com/nyiyui)
 
 - ☆ [_Toronto Science Fair 2022_](https://web.archive.org/web/20220423154846/https://www.torontosciencefair.ca/): __Gold Medal__ for [_Kyokukey: Wearable Input Device Using Conductive Threads_](/projects/yarnkey)
 - ☆ [_JST Global Science Campus Experts in Information Science_](https://www.jst.go.jp/cpse/gsc/about/happyou.html): __Japan Science and Technology Agency Chair's Award[^jst][^jstl]__ for _Development of a Parallel-native Programming Language_[^jst1]
-- _Canada-wide Science Fair 2021_: __Bronze Medal__ for _The Properties of Face Masks_[^cwsf2021]
-- ☆ _Toronto Science Fair 2021_: __Gold Medal__ for _The Properties of Face Masks_[^tsf2021g]
+- _Canada-wide Science Fair 2021_: __Bronze Medal__ for [_The Properties of Face Masks_](/projects/face-masks) [^cwsf2021]
+- ☆ _Toronto Science Fair 2021_: __Gold Medal__ for [_The Properties of Face Masks_](/projects/face-masks) [^tsf2021g]
 - _Toronto Science Fair 2021_: __Bronze Medal__ for _AI-based bus arrival time prediction system: Transference_[^tsf2021b]
 - _Toronto Science Fair 2019_: __Silver Medal__ for _Linear Motor Train using MicroPython_[^tsf2019]
 
