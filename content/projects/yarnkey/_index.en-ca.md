@@ -6,6 +6,8 @@ It can be used in a narrow space because the sensor has an area of a few cm<sup>
 """
 +++
 
+Note: The English version of the paper is being written.
+
 ![Inputting "hello" using Yarnkey.](/projects/yarnkey/hero.png)
 
 <!-- TODO: shortcode-ify -->
