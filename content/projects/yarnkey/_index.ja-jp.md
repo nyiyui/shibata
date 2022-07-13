@@ -7,8 +7,6 @@ Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で�
 """
 +++
 
-英語版の論文は翻訳中です。翻訳が完了次第アップロードします。
-
 ![Inputting "hello" using Yarnkey.](/projects/yarnkey/hero.png)
 
 著者: 柴田 謙, [鳴海絋也](https://narumi.me/profile)
@@ -20,7 +18,7 @@ Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で�
 センサ上に2Dパターンとして描いた文字をマイコンが認識し、USBを介して接続したパソコンに伝える。立った状態で手を横に下したまま、指先を数センチ四方動かすだけで入力できるため、狭い空間でも入力が可能である。
 
 [ユーザーテストアプリ](https://yarnkey.nyiyui.ca)
-&bull; [論文の英語版](about:blank)
+&bull; [論文の英語版](/projects/yarnkey/yarnkey_dicomo-2022_en.pdf)
 
 {{< youtube "ijQGRG3Er1g" >}}
 {{< youtube "dMT6_UEli-g" >}}
