@@ -19,6 +19,7 @@ Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で�
 
 [ユーザーテストアプリ](https://yarnkey.nyiyui.ca)
 &bull; [論文の英語版](/projects/yarnkey/yarnkey_dicomo-2022_en.pdf)
+&bull; [キー対応表](https://nyiyui.ca/render/index2.html)
 
 {{< youtube "ijQGRG3Er1g" >}}
 {{< youtube "dMT6_UEli-g" >}}
