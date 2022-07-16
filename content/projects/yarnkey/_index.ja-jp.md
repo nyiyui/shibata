@@ -7,9 +7,9 @@ Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で�
 """
 +++
 
-![Inputting "hello" using Yarnkey.](/projects/yarnkey/hero.png)
+![Yarnkeyを使って「hello」と入力する。](/projects/yarnkey/hero.png)
 
-著者: 柴田 謙, [鳴海絋也](https://narumi.me/profile)
+著者: 柴田謙, [鳴海絋也](https://narumi.me/profile)
 
 モバイルデバイスの普及により、ウェアラブルな文字入力デバイスの要求が高まってきている。
 これまでに様々な手法が提案されているが、デバイスの装着が必要で目立ってしまう、嵩張り携帯に不向き、などの課題がある。
