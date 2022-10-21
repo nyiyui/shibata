@@ -8,7 +8,6 @@ googleAnalytics = "G-PLEJM83JCR"
 enableGitInfo = true
 
 defaultContentLanguage = 'en-ca'
-
 [languages]
   [languages.en-ca]
     title = 'Ken Shibata'
