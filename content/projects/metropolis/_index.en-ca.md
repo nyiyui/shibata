@@ -14,5 +14,5 @@ Project Metropolis is a school club dedicated to making the
 websites (e.g. [a mobile app](https://maclyonsden.com/app) and
 [Google Doodle-style games](https://doodle.maclyonsden.com)).
 
-I worked on the main website which is written in Django, as well as the OAuth
+I maintain and develop most of the new features on the main website (written in Django), as well as the OAuth
 implementation for the Doodle games and an API for the mobile app.
