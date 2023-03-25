@@ -14,6 +14,3 @@ tags = ["プログラミング"]
 &bull; [発表資料（英語のみ）](/projects/coa/coa_swopp-2022.pdf)
 &bull; [発表スライド](https://docs.google.com/presentation/d/1Ooln_pojSlW_T7ZXb0aWG5PyNMTQwvMJoWqgsoFvu0U/preview)
 &bull; [情報の達人プログラムでの発表動画](https://youtube.com/watch?v=fqGx2pAEzeg)
-
-{{< youtube "ijQGRG3Er1g" >}}
-{{< youtube "dMT6_UEli-g" >}}
