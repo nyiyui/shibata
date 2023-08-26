@@ -1,5 +1,5 @@
 +++
-title = "Coa Programming Language"
+title = "Parallel-processing oriented Programming Language Coa"
 tags = ["programming"]
 +++
 
