@@ -28,4 +28,4 @@ Qrystal (クリスタル)はWireGuard tunnelを一つの設定ファイルと使
 }
 ```
 
-[Website](nyiyui.ca/qrystal)
+[Website](https://nyiyui.ca/qrystal)
