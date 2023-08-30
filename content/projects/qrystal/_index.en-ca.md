@@ -28,4 +28,4 @@ I use this to setup WireGuard tunnels between my servers (which are often on dif
 }
 ```
 
-[Website](nyiyui.ca/qrystal)
+[Website](https://nyiyui.ca/qrystal)
