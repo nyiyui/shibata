@@ -7,3 +7,25 @@ I'm interested in computer science, light novels, and 3D modelling.
 I mainly program using Python, Go, and Rust, but I also use JS, Bash, Java, and C.
 
 [^grade]: as of 2023-10
+
+## Selected Projects
+
+Draft / Coming soon!
+
+- RoboPiano
+- HATO
+- Yarnkey
+- Coa
+- Nolack
+- Nearlog
+- Face Mask
+- Transference
+- Maglev Train
+- Unchiku
+
+## Awards
+
+- SSCS Arduino Contest
+- Coa/Yarnkey/DICOMO/SWoPP
+- IEEE Tokyo YP
+- TSF/CWSF
