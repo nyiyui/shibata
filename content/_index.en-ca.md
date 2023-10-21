@@ -13,14 +13,37 @@ I mainly program using Python, Go, and Rust, but I also use JS, Bash, Java, and 
 Draft / Coming soon!
 
 - RoboPiano
+  * Piano playing robot arm controlled by Arduino single-board computer: [Video](https://www.youtube.com/watch?v=bDjWjxClIV8)
+  * Won 2023 IEEE SSCS Arudino Contest Gold Award: [SSCS contest website](https://www.sscs-arduino-contest.com/winners#:~:text=High%2DSchool%20Team%20Awards), ![Award]() 
 - HATO
+  * Model train automated operation system supporting multiple tran control and position estimation
+  * The project accepted by [Mijou Jr.](https://jr.mitou.org/english/) as one of the 2023 projects
+  * Project website
 - Yarnkey
+  * Stroke-based computer input device
+  * website
+  * presentation
+  * award
 - Coa
+  * Original computer lanugage targettting parallel execitusion on mutli-core CPUs
+  * Project website
+  * Presentations
+  * Awards
 - Nolack
+  * 
 - Nearlog
+  * Android app for contract tracing expriments to prevent COVID spreads
+  * Project website
+  * Award
 - Face Mask
+  * Presentation
+  * Award
 - Transference
+  * AI-based bus location prediction system
+  * Presentation
+  * Award
 - Maglev Train
+  * 
 - Unchiku
 
 ## Awards
