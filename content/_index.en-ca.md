@@ -38,9 +38,9 @@ Draft / Coming soon!
 - Transference
   * AI-based bus location prediction system
   * Youth Science Canada STEM Fair 2020 regional award, Presentation at Toronto Science Fair 2021 Bronze Award
-- Maglev Train
+- Linear Motor Train using Micropython
   * Model train project using external magnetic pulse as a propulsive method
-  * Presented at Toronto Science Fair
+  * Presented at Toronto Science Fair 2019
 - Unchiku
   * Original program language which can be written in Japanesese (not like as English used in other programming languages)
   * Presented at TechKids Granprix
