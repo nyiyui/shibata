@@ -50,7 +50,7 @@ Draft / Coming soon!
 - 2022
   * Coa/Yarnkey/DICOMO/SWoPP
 - Best poster at IPSJ 84th
-- IEEE Tokyo YP ![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)
+- IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog.jpg)
 - TSF/CWSF
 - Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
 - JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
