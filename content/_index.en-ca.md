@@ -50,7 +50,7 @@ Draft / Coming soon!
   * IEEE Solid-State Circuits Society Arduino Contest Gold Award [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg)
 - 2022
   * Coa/Yarnkey/DICOMO/SWoPP
-  * Best poster at IPSJ 84th
+  * Best Poster Award at IPSJ 84th [![Award](/2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_small.jpg)](2022-03-25_IPSJ84_poster_award_Coa_Yarnkey.jp)
   * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
 - 2021
   * [Toronto Science Fair 2021: Gold Medal for The Properties of Face Masks](https://web.archive.org/web/20210515060428/https://www.torontosciencefair.ca/about-us/2021-gold-medal-recipients)
