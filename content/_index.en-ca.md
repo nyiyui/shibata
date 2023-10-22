@@ -26,7 +26,7 @@ Draft / Coming soon!
   * Presented at: IPSJ84 2022, WCCE 2022 Hiroshima, [DICOMO 2022](https://tsys.jp/dicomo/2022/program/program_abst.html#3C-4), Toronto Science Fair 2022, Canada-wide Science Fair 2022
 - [Coa](https://shibata.nyiyui.ca/projects/coa/)
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
-  * Presented at: [SWoPP 2022](https://swopp.github.io/2022/program/#:~:text=%E5%92%8C%E7%B4%80%20(%E6%97%A9%E7%A8%B2%E7%94%B0%E5%A4%A7%E5%AD%A6)-,%E4%B8%A6%E5%88%97%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E5%AE%9F%E8%A3%85,-%E2%97%8B%E6%9F%B4%E7%94%B0%20%E8%AC%99%20(%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0), GSC 2021 (JST award), IPSJ84 2022, WCCE 2022 Hiroshima
+  * Presented at: [SWoPP 2022](https://swopp.github.io/2022/program/), [GSC 2021](https://www.jst.go.jp/pr/info/info1539/pdf/info1539.pdf) (JST award), IPSJ84 2022, WCCE 2022 Hiroshima
 - Nolack
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
   * Joined the project as a member to support the web backend
