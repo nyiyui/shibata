@@ -23,7 +23,7 @@ Draft / Coming soon!
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
   * Stroke-based character input device using conductive threads.
     The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
-  * Presented at: IPSJ84 2022, WCCE 2022 Hiroshima, DICOMO 2022, Toronto Science Fair 2022, Canada-wide Science Fair 2022
+  * Presented at: IPSJ84 2022, WCCE 2022 Hiroshima, [DICOMO 2022](https://tsys.jp/dicomo/2022/program/program_abst.html#3C-4), Toronto Science Fair 2022, Canada-wide Science Fair 2022
 - [Coa](https://shibata.nyiyui.ca/projects/coa/)
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
   * Presented at: SWoPP 2022, GSC 2021 (JST award), IPSJ84 2022, WCCE 2022 Hiroshima
