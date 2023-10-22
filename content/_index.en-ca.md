@@ -17,7 +17,7 @@ Draft / Coming soon!
   * Won 2023 IEEE SSCS Arudino Contest Gold Award:
     [SSCS contest website](https://www.sscs-arduino-contest.com/winners#:~:text=High%2DSchool%20Team%20Awards),
     [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg) 
-- [HATO](https://hato.nyiyui.ca/README.html)
+- [HATO](https://hato.nyiyui.ca/README-en.html)
   * Model train automated operation system supporting multiple tran control and position estimation
   * The project accepted as one of the [Mijou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) 2023 projects.
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
