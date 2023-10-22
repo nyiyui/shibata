@@ -34,14 +34,13 @@ Draft / Coming soon!
     [SWoPP 2022](https://swopp.github.io/2022/program/),
     [GSC 2021](https://www.jst.go.jp/pr/info/info1539/pdf/info1539.pdf) (JST award),
     [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html),
-    [WCCE 2022 (Session 9A)](https://wcce2022.org/program.html#:~:text=14%3A00%2D16%3A00%20Session%209A%3A%20Special%20Session%20by%20National%20Institute%20of%20Informatics%2C%20Japan%3A%20A%20Poster%20Session%20for%20nominated%20secondary%20High%2Dschool%20students),
-
+    [WCCE 2022 (Session 9A)](https://wcce2022.org/program.html#:~:text=14%3A00%2D16%3A00%20Session%209A%3A%20Special%20Session%20by%20National%20Institute%20of%20Informatics%2C%20Japan%3A%20A%20Poster%20Session%20for%20nominated%20secondary%20High%2Dschool%20students)
 - Nolack
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
   * Joined the project as a member to support the web backend
 - [Nearlog](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
-  * Presented at IEEE TOkyo Young Professional: Outstanding Award
+  * Presented at IEEE Tokyo Young Professional Contest (Outstanding Award)
 - [Face Mask](https://projectboard.world/ysc2021/project/the-properties-of-face-masks)
   * Developped a custom-developed data recording device to study the effects of wearing various types of masks.
   * Presented at Toronto Science Fair 2021, Canada-wide Science Fair 2021
@@ -69,9 +68,10 @@ Draft / Coming soon!
   * [Canada-wide Science Fair 2021: Bronze Medal for The Properties of Face Masks](https://youthscience.ca/wp-content/uploads/2021/05/CWSF-2021-Award-Results-EN.pdf)
   * [Toronto Science Fair 2021: Bronze Medal for AI-based bus arrival time prediction system: Transference](https://web.archive.org/web/20210515052916/https://www.torontosciencefair.ca/about-us/2021-bronze-medal-recipients)
 - 2020
+  * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
   * IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog.jpg)
 - To be updated:
-  * TSF/CWSF
-  * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
+  * Canada-wide Science Fair
+  * Toronto Science Fair
 - 2019
   * [Toronto Science Fair 2019: Silver Medal for Linear Motor Train using MicroPython](https://web.archive.org/web/20200928125537/https://www.torontosciencefair.ca/about-us/2019-silver-medal-recipients-medals)
