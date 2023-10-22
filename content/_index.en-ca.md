@@ -15,7 +15,7 @@ Draft / Coming soon!
 - [RoboPiano](https://www.youtube.com/watch?v=bDjWjxClIV8)
   * Piano playing robot arm controlled by Arduino single-board computer
   * Won 2023 IEEE SSCS Arudino Contest Gold Award:
-    [SSCS contest website](https://www.sscs-arduino-contest.com/winners#:~:text=High%2DSchool%20Team%20Awards), ![Award]() 
+    [SSCS contest website](https://www.sscs-arduino-contest.com/winners#:~:text=High%2DSchool%20Team%20Awards), ![Award](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg) 
 - [HATO](https://hato.nyiyui.ca/README.html)
   * Model train automated operation system supporting multiple tran control and position estimation
   * The project accepted by [Mijou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) as one of the 2023 projects
