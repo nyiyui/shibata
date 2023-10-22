@@ -10,8 +10,6 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 
 ## Selected Projects
 
-Draft / Coming soon!
-
 - [RoboPiano](https://www.youtube.com/watch?v=bDjWjxClIV8)
   * Piano playing robot arm controlled by Arduino single-board computer
   * Won 2023 IEEE SSCS Arudino Contest Gold Award:
@@ -60,6 +58,7 @@ Draft / Coming soon!
   * IEEE Solid-State Circuits Society Arduino Contest Gold Award [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg)
 - 2022
   * Coa/Yarnkey/DICOMO/SWoPP
+  * Expert in Science Program: Outstanding Award [![Award](2022-03-31_EIS2021_outstanding_award_small.jpg)](2022-03-31_EIS2021_outstanding_award.jpg)
   * Best Poster Award at IPSJ 84th [![Award](/2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_small.jpg)](2022-03-25_IPSJ84_poster_award_Coa_Yarnkey.jpg)
   * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
   * Canada-wide Science Fair 2022: Kyokukey: Wearable Input Device Using Conductive Threads
