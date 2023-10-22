@@ -31,7 +31,7 @@ Draft / Coming soon!
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
 - [Nearlog](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
-  * Presented at IEEE YP
+  * Presented at IEEE TOkyo Young Professional: Outstanding Award
 - [Face Mask](https://projectboard.world/ysc2021/project/the-properties-of-face-masks)
   * Developped a custom-developed data recording device to study the effects of wearing various types of masks.
   * Presented at Toronto Science Fair 2021, Canada-wide Science Fair 2021
