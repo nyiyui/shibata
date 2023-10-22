@@ -19,7 +19,7 @@ Draft / Coming soon!
     [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg) 
 - [HATO](https://hato.nyiyui.ca/README.html)
   * Model train automated operation system supporting multiple tran control and position estimation
-  * The project accepted by [Mijou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) as one of the 2023 projects
+  * The project accepted as one of the [Mijou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) 2023 projects.
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
   * Stroke-based character input device using conductive threads.
     The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
