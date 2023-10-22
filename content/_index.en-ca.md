@@ -4,7 +4,7 @@ title = "Ken Shibata"
 
 Hi, I'm Ken Shibata, a grade 12[^grade] student in the MaCS program at Wiliam Lyon Mackenzie CI.
 I'm interested in computer science, light novels, and 3D modelling.
-I mainly program using Python, Go, and Rust, but I also use JS, Bash, Java, and C.
+I enjoy maker projects and programming with Python, Go, and Rust, but I also use JS, Bash, Java, and C.
 
 [^grade]: as of 2023-10
 
@@ -14,19 +14,20 @@ Draft / Coming soon!
 
 - [RoboPiano](https://www.youtube.com/watch?v=bDjWjxClIV8)
   * Piano playing robot arm controlled by Arduino single-board computer
-  * Won 2023 IEEE SSCS Arudino Contest Gold Award: [SSCS contest website](https://www.sscs-arduino-contest.com/winners#:~:text=High%2DSchool%20Team%20Awards), ![Award]() 
-- HATO
+  * Won 2023 IEEE SSCS Arudino Contest Gold Award:
+    [SSCS contest website](https://www.sscs-arduino-contest.com/winners#:~:text=High%2DSchool%20Team%20Awards), ![Award]() 
+- [HATO](https://hato.nyiyui.ca/README.html)
   * Model train automated operation system supporting multiple tran control and position estimation
-  * The project accepted by [Mijou Jr.](https://jr.mitou.org/english/) as one of the 2023 projects
-  * Project website
+  * The project accepted by [Mijou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) as one of the 2023 projects
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
-  * Stroke-based computer input devicea wearable input device using conductive threads. The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
+  * Stroke-based character input device using conductive threads.
+    The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
   * Award
 - [Coa](https://shibata.nyiyui.ca/projects/coa/)
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
   * Awards
 - Nolack
-  * 
+  * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
 - [Nearlog](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
   * Award
@@ -45,8 +46,10 @@ Draft / Coming soon!
 ## Awards
 
 - 2023
-  * SSCS Arduino Contest
-- Coa/Yarnkey/DICOMO/SWoPP
+  * IEEE Solid-State Circuits Society Arduino Contest Gold Award ![Award](/2023-)
+- 2022
+  * Coa/Yarnkey/DICOMO/SWoPP
+- Best poster at IPSJ 84th
 - IEEE Tokyo YP
 - TSF/CWSF
 - Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
