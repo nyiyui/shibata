@@ -23,26 +23,27 @@ Draft / Coming soon!
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
   * Stroke-based character input device using conductive threads.
     The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
-  * Award
+  * Presented at: IPSJ84 2022, WCCE 2022 Hiroshima, DICOMO 2022, Toronto Science Fair 2022, Canada-wide Science Fair 2022
 - [Coa](https://shibata.nyiyui.ca/projects/coa/)
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
-  * Awards
+  * Presented at: SWoPP 2022, GSC 2021 (JST award), IPSJ84 2022, WCCE 2022 Hiroshima
 - Nolack
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
 - [Nearlog](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
-  * Award
+  * Presented at IEEE YP
 - [Face Mask](https://projectboard.world/ysc2021/project/the-properties-of-face-masks)
   * Developped a custom-developed data recording device to study the effects of wearing various types of masks.
-  * Award
+  * Presented at Toronto Science Fair 2021, Canada-wide Science Fair 2021
 - Transference
   * AI-based bus location prediction system
-  * Presentation
-  * Award
+  * Youth Science Canada STEM Fair 2020 regional award, Presentation at Toronto Science Fair 2021 Bronze Award
 - Maglev Train
   * Model train project using external magnetic pulse as a propulsive method
+  * Presented at Toronto Science Fair
 - Unchiku
   * Original program language which can be written in Japanesese (not like as English used in other programming languages)
+  * Presented at TechKids Granprix
 
 ## Awards
 
