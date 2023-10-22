@@ -23,15 +23,19 @@ Draft / Coming soon!
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
   * Stroke-based character input device using conductive threads.
     The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
-  * Presented at: WCCE 2022 Hiroshima,
+  * Presented at:
     [DICOMO 2022](https://tsys.jp/dicomo/2022/program/program_abst.html#3C-4),
     [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html),
+    [WCCE 2022 (Session 9A)](https://wcce2022.org/program.html#:~:text=14%3A00%2D16%3A00%20Session%209A%3A%20Special%20Session%20by%20National%20Institute%20of%20Informatics%2C%20Japan%3A%20A%20Poster%20Session%20for%20nominated%20secondary%20High%2Dschool%20students),
     Toronto Science Fair 2022, Canada-wide Science Fair 2022
 - [Coa](https://shibata.nyiyui.ca/projects/coa/)
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
-  * Presented at: [SWoPP 2022](https://swopp.github.io/2022/program/),
+  * Presented at:
+    [SWoPP 2022](https://swopp.github.io/2022/program/),
     [GSC 2021](https://www.jst.go.jp/pr/info/info1539/pdf/info1539.pdf) (JST award),
-    [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html), WCCE 2022 Hiroshima
+    [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html),
+    [WCCE 2022 (Session 9A)](https://wcce2022.org/program.html#:~:text=14%3A00%2D16%3A00%20Session%209A%3A%20Special%20Session%20by%20National%20Institute%20of%20Informatics%2C%20Japan%3A%20A%20Poster%20Session%20for%20nominated%20secondary%20High%2Dschool%20students),
+
 - Nolack
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
   * Joined the project as a member to support the web backend
