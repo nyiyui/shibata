@@ -29,6 +29,7 @@ Draft / Coming soon!
   * Presented at: SWoPP 2022, GSC 2021 (JST award), IPSJ84 2022, WCCE 2022 Hiroshima
 - Nolack
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
+  * Joined the project as a member to support the web backend
 - [Nearlog](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
   * Presented at IEEE TOkyo Young Professional: Outstanding Award
