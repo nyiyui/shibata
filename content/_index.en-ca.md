@@ -44,13 +44,13 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * Presented at Toronto Science Fair 2021, Canada-wide Science Fair 2021
 - Transference
   * AI-based bus location prediction system
-  * Youth Science Canada STEM Fair 2020 regional award, Presentation at Toronto Science Fair 2021 Bronze Award
+  * Presented at: Youth Science Canada STEM Fair 2020 (Regional Award), Toronto Science Fair 2021 (Bronze Award)
 - Linear Motor Train using Micropython
   * Model train project using external magnetic pulse as a propulsive method
   * Presented at Toronto Science Fair 2019
 - Unchiku
   * Original program language which can be written in Japanesese (not like as English used in other programming languages)
-  * Presented at TechKids Granprix
+  * Presented at TechKids Granprix (Cyberagent Award)
 
 ## Awards
 
