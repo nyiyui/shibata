@@ -34,7 +34,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
     [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html),
     [WCCE 2022 (Session 9A)](https://wcce2022.org/program.html#:~:text=14%3A00%2D16%3A00%20Session%209A%3A%20Special%20Session%20by%20National%20Institute%20of%20Informatics%2C%20Japan%3A%20A%20Poster%20Session%20for%20nominated%20secondary%20High%2Dschool%20students)
 - Nolack
-  * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
+  * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by Aki Jyo
   * Joined the project as a member to support the web backend
 - [Nearlog](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
