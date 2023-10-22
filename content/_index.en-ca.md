@@ -23,10 +23,15 @@ Draft / Coming soon!
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
   * Stroke-based character input device using conductive threads.
     The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
-  * Presented at: IPSJ84 2022, WCCE 2022 Hiroshima, [DICOMO 2022](https://tsys.jp/dicomo/2022/program/program_abst.html#3C-4), Toronto Science Fair 2022, Canada-wide Science Fair 2022
+  * Presented at: WCCE 2022 Hiroshima,
+    [DICOMO 2022](https://tsys.jp/dicomo/2022/program/program_abst.html#3C-4),
+    [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html),
+    Toronto Science Fair 2022, Canada-wide Science Fair 2022
 - [Coa](https://shibata.nyiyui.ca/projects/coa/)
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
-  * Presented at: [SWoPP 2022](https://swopp.github.io/2022/program/), [GSC 2021](https://www.jst.go.jp/pr/info/info1539/pdf/info1539.pdf) (JST award), IPSJ84 2022, WCCE 2022 Hiroshima
+  * Presented at: [SWoPP 2022](https://swopp.github.io/2022/program/),
+    [GSC 2021](https://www.jst.go.jp/pr/info/info1539/pdf/info1539.pdf) (JST award),
+    [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html), WCCE 2022 Hiroshima
 - Nolack
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by
   * Joined the project as a member to support the web backend
