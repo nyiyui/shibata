@@ -47,15 +47,19 @@ Draft / Coming soon!
 ## Awards
 
 - 2023
-  * IEEE Solid-State Circuits Society Arduino Contest Gold Award ![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)
+  * IEEE Solid-State Circuits Society Arduino Contest Gold Award [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg)
 - 2022
   * Coa/Yarnkey/DICOMO/SWoPP
-- Best poster at IPSJ 84th
-- IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog.jpg)
-- TSF/CWSF
-- Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
-- JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
-- [Canada-wide Science Fair 2021: Bronze Medal for The Properties of Face Masks](https://youthscience.ca/wp-content/uploads/2021/05/CWSF-2021-Award-Results-EN.pdf)
-- [Toronto Science Fair 2021: Gold Medal for The Properties of Face Masks](https://web.archive.org/web/20210515060428/https://www.torontosciencefair.ca/about-us/2021-gold-medal-recipients)
-- [Toronto Science Fair 2021: Bronze Medal for AI-based bus arrival time prediction system: Transference](https://web.archive.org/web/20210515052916/https://www.torontosciencefair.ca/about-us/2021-bronze-medal-recipients)
-- [Toronto Science Fair 2019: Silver Medal for Linear Motor Train using MicroPython](https://web.archive.org/web/20200928125537/https://www.torontosciencefair.ca/about-us/2019-silver-medal-recipients-medals)
+  * Best poster at IPSJ 84th
+  * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
+- 2021
+  * [Toronto Science Fair 2021: Gold Medal for The Properties of Face Masks](https://web.archive.org/web/20210515060428/https://www.torontosciencefair.ca/about-us/2021-gold-medal-recipients)
+  * [Canada-wide Science Fair 2021: Bronze Medal for The Properties of Face Masks](https://youthscience.ca/wp-content/uploads/2021/05/CWSF-2021-Award-Results-EN.pdf)
+  * [Toronto Science Fair 2021: Bronze Medal for AI-based bus arrival time prediction system: Transference](https://web.archive.org/web/20210515052916/https://www.torontosciencefair.ca/about-us/2021-bronze-medal-recipients)
+- 2020
+  * IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog.jpg)
+- To be updated:
+  * TSF/CWSF
+  * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
+- 2019
+  * [Toronto Science Fair 2019: Silver Medal for Linear Motor Train using MicroPython](https://web.archive.org/web/20200928125537/https://www.torontosciencefair.ca/about-us/2019-silver-medal-recipients-medals)
