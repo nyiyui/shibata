@@ -49,8 +49,8 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * Model train project using external magnetic pulse as a propulsive method
   * Presented at Toronto Science Fair 2019
 - Unchiku
-  * Original program language which can be written in Japanesese (not like as English used in other programming languages)
-  * Presented at TechKids Granprix (Cyberagent Award)
+  * Original programming language which can be written in Japanesese (not like as English used in other programming languages)
+  * Presented at Tech Kids Grand Prix (CyberAgent Award)
 
 ## Awards
 
