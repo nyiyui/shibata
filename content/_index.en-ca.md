@@ -57,7 +57,6 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 - 2023
   * IEEE Solid-State Circuits Society Arduino Contest Gold Award [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg)
 - 2022
-  * Coa/Yarnkey/DICOMO/SWoPP
   * [NII Expert in Science Program 2021](https://www.nii.ac.jp/tatsujin/): Outstanding Award [![Award](2022-03-31_EIS2021_outstanding_award_small.jpg)](2022-03-31_EIS2021_outstanding_award.jpg)
   * Best Poster Award at [the 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/index.html) [(Information Processing Society of Japan)](https://www.ipsj.or.jp/english/index.html) [![Award](/2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_small.jpg)](2022-03-25_IPSJ84_poster_award_Coa_Yarnkey.jpg)
   * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
