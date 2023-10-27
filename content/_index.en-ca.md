@@ -36,7 +36,8 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 - Nolack
   * On-line project to resolve the sergical mask distribution issues in early COVID-19 led by Aki Jyo
   * Joined the project as a member to support the web backend
-- [Nearlog](https://www.youtube.com/watch?v=Nj5x1LC12e0)
+- [Nearlog](https://nearlog.gitlab.io/)
+  * [Demo video](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
   * Presented at IEEE Tokyo Young Professional Contest (Outstanding Award)
 - [Face Mask](https://projectboard.world/ysc2021/project/the-properties-of-face-masks)
