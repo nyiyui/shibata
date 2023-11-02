@@ -30,7 +30,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
   * Presented at:
     [SWoPP 2022](https://swopp.github.io/2022/program/) [(en)](https://swopp-github-io.translate.goog/2022/program/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp),
-    [GSC 2021](https://www.jst.go.jp/pr/info/info1539/pdf/info1539.pdf) (JST award),
+    [GSC 2021](https://www.jst.go.jp/pr/info/info1539/pdf/info1539.pdf) ([JST award](https://shibata.nyiyui.ca/2021-11-21_JST_GSC_President_Award.jpg)),
     [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html) [(en)](https://www-ipsj-or-jp.translate.goog/event/taikai/84/ipsj_web2022/html/event/B-14.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp),
     [WCCE 2022 (Session 9A)](https://wcce2022.org/program.html#:~:text=14%3A00%2D16%3A00%20Session%209A%3A%20Special%20Session%20by%20National%20Institute%20of%20Informatics%2C%20Japan%3A%20A%20Poster%20Session%20for%20nominated%20secondary%20High%2Dschool%20students)
 - Nolack
