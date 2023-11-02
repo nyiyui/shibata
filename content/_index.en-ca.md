@@ -58,8 +58,8 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 - 2023
   * IEEE Solid-State Circuits Society Arduino Contest Gold Award [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg)
 - 2022
-  * [NII Expert in Information Science Program 2021](https://www.nii.ac.jp/tatsujin/): Outstanding Award [![Award](2022-03-31_EIS2021_outstanding_award_small.jpg)](2022-03-31_EIS2021_outstanding_award.jpg)
-  * Best Poster Award at [the 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/index.html) [(Information Processing Society of Japan)](https://www.ipsj.or.jp/english/index.html) [![Award](/2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_small.jpg)](2022-03-25_IPSJ84_poster_award_Coa_Yarnkey.jpg)
+  * [NII Expert in Information Science Program 2021](https://www.nii.ac.jp/tatsujin/): Outstanding Award [![Award](2022-03-31_EIS2021_outstanding_award_small.jpg)](2022-03-31_EIS2021_outstanding_award_eng.jpg)
+  * Best Poster Award at [the 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/index.html) [(Information Processing Society of Japan)](https://www.ipsj.or.jp/english/index.html) [![Award](/2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_small.jpg)](2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_eng.jpg)
   * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
   * Canada-wide Science Fair 2022: Kyokukey: Wearable Input Device Using Conductive Threads
 - 2021
@@ -69,6 +69,6 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * [Toronto Science Fair 2021: Bronze Medal for AI-based bus arrival time prediction system: Transference](https://web.archive.org/web/20210515052916/https://www.torontosciencefair.ca/about-us/2021-bronze-medal-recipients)
 - 2020
   * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
-  * IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog.jpg)
+  * IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_eng.jpg)
 - 2019
   * [Toronto Science Fair 2019: Silver Medal for Linear Motor Train using MicroPython](https://web.archive.org/web/20200928125537/https://www.torontosciencefair.ca/about-us/2019-silver-medal-recipients-medals)
