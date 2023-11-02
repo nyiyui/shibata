@@ -55,6 +55,8 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 
 ## Awards
 
+**Note**: Click the images to view the English translation and enlarge.
+
 - 2023
   * IEEE Solid-State Circuits Society Arduino Contest Gold Award [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg)
 - 2022
