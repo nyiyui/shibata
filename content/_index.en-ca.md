@@ -39,7 +39,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 - [Nearlog](https://nearlog.gitlab.io/)
   * [Demo video](https://www.youtube.com/watch?v=Nj5x1LC12e0)
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
-  * Presented at IEEE Tokyo Young Professional Contest (Outstanding Award)
+  * Presented at IEEE Tokyo Young Professional Contest ([Outstanding Award](https://shibata.nyiyui.ca/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_eng.jpg))
 - [Face Mask](https://projectboard.world/ysc2021/project/the-properties-of-face-masks)
   * Developped a custom-developed data recording device to study the effects of wearing various types of masks.
   * Presented at Toronto Science Fair 2021, Canada-wide Science Fair 2021
