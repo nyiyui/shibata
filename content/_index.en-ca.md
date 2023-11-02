@@ -69,6 +69,6 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * [Toronto Science Fair 2021: Bronze Medal for AI-based bus arrival time prediction system: Transference](https://web.archive.org/web/20210515052916/https://www.torontosciencefair.ca/about-us/2021-bronze-medal-recipients)
 - 2020
   * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
-  * IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_eng.jpg)
+  * IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog.jpg)
 - 2019
   * [Toronto Science Fair 2019: Silver Medal for Linear Motor Train using MicroPython](https://web.archive.org/web/20200928125537/https://www.torontosciencefair.ca/about-us/2019-silver-medal-recipients-medals)
