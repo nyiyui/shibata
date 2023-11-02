@@ -53,7 +53,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * Original programming language which can be written in Japanesese (not like as English used in other programming languages)
   * Presented at Tech Kids Grand Prix (CyberAgent Award)
 
-## Awards
+## Awards (click to view the English-translated award)
 
 **Note**: Click the images to view the English translation and enlarge.
 
