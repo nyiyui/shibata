@@ -67,12 +67,11 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
   * Canada-wide Science Fair 2022: Kyokukey: Wearable Input Device Using Conductive Threads
 - 2021
-  * Japan Science and Technology Agency, Global Science Campus, President's Award: [![Award](2021-11-21_JST_GSC_President_Award_mini.jpg)](2021-11-21_JST_GSC_President_Award.jpg)
+  * Japan Science and Technology Agency, Global Science Campus, President's Award: [![Award](2021-11-21_JST_GSC_President_Award_mini.jpg)](2021-11-21_JST_GSC_President_Award.jpg) for Development of a Parallel-native Programming Language Coa
   * [Toronto Science Fair 2021: Gold Medal for The Properties of Face Masks](https://web.archive.org/web/20210515060428/https://www.torontosciencefair.ca/about-us/2021-gold-medal-recipients)
   * [Canada-wide Science Fair 2021: Bronze Medal for The Properties of Face Masks](https://youthscience.ca/wp-content/uploads/2021/05/CWSF-2021-Award-Results-EN.pdf)
   * [Toronto Science Fair 2021: Bronze Medal for AI-based bus arrival time prediction system: Transference](https://web.archive.org/web/20210515052916/https://www.torontosciencefair.ca/about-us/2021-bronze-medal-recipients)
 - 2020
-  * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency Chair’s Award for Development of a Parallel-native Programming Language
   * IEEE Tokyo YP [![Award](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_small.jpg)](/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_eng.jpg)
 - 2019
   * [Toronto Science Fair 2019: Silver Medal for Linear Motor Train using MicroPython](https://web.archive.org/web/20200928125537/https://www.torontosciencefair.ca/about-us/2019-silver-medal-recipients-medals)
