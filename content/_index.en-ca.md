@@ -19,7 +19,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * Model train automated operation system supporting multiple tran control and position estimation
   * The project accepted as one of the [Mitou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) 2023 projects.
   * [HATO on Mitou Jr. official page](https://jr.mitou.org/projects/2023/hato) ([en](https://jr-mitou-org.translate.goog/projects/2023/hato?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))
-  * [![Certificate](/2023-11-03_HATO_Mitou_Jr_mini.jpg)](/2023-11-03_HATO_Mitou_Jr.jpg)
+  * Certificate: [![Certificate](/2023-11-03_HATO_Mitou_Jr_mini.jpg)](/2023-11-03_HATO_Mitou_Jr.jpg)
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
   * Stroke-based character input device using conductive threads.
     The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
