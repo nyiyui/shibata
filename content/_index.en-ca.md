@@ -43,16 +43,16 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * [Android app](https://play.google.com/store/apps/details?id=com.colourdelete.nearlog_app_f) for contract tracing expriments to prevent COVID spreads
   * Presented at IEEE Tokyo Young Professional Contest ([Outstanding Award](https://shibata.nyiyui.ca/2020-11-28_IEEE_YP_Tokyo_outstanding_Nearlog_eng.jpg))
 - [Face Mask](https://projectboard.world/ysc2021/project/the-properties-of-face-masks)
-  * Developped a custom-developed data recording device to study the effects of wearing various types of masks.
+  * Developed a custom data recording device to study the effects of wearing various types of masks.
   * Presented at Toronto Science Fair 2021, Canada-wide Science Fair 2021
 - Transference
   * AI-based bus location prediction system
   * Presented at: Youth Science Canada STEM Fair 2020 (Regional Award), Toronto Science Fair 2021 (Bronze Award)
 - Linear Motor Train using Micropython
-  * Model train project using external magnetic pulse as a propulsive method
+  * Model train project using external magnetic pulses to propel
   * Presented at Toronto Science Fair 2019
 - Unchiku
-  * Original programming language which can be written in Japanesese (not like as English used in other programming languages)
+  * Original programming language similar to Japanesese (unlike as English used in other programming languages)
   * Presented at Tech Kids Grand Prix (CyberAgent Award)
 
 ## Awards (click to view the English-translated award)
