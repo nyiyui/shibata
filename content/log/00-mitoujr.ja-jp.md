@@ -2,7 +2,7 @@
 title = "基盤（未踏ジュニア2023年度のふりかえり）"
 date = "2023-12-17T04:12:30-05:00"
 #publishDate = "2023-12-18T00:00:00+09:00"
-tags = ['hato', 'mitoujr']
+tags = ["HATO", "未踏ジュニア"]
 +++
 
 [未踏ジュニア Advent Calendar 2023](https://adventar.org/calendars/9101)に参加しています！当記事は12-18分です。

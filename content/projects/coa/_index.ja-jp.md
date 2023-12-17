@@ -1,6 +1,6 @@
 +++
 title = "Coa プログラミング言語"
-tags = ["プログラミング"]
+tags = ["プログラミング", "情報科学の達人"]
 +++
 
 著者: 柴田謙, [高前田 伸也](https://sites.google.com/site/shinyaty/home-japanese)

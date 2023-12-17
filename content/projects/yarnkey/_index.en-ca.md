@@ -1,5 +1,6 @@
 +++
 title = "Yarnkey/Kyokukey"
+tags = ["Experts in Information Science"]
 summary = """
 Yarnkey (formerly Kyokukey) is a wearable input device that can be used in various postures with one hand using conductive thread.
 It can be used in a narrow space because the sensor has an area of a few cm<sup>2</sup>.

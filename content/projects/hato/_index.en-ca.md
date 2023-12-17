@@ -1,5 +1,6 @@
 +++
 title = "Hopefully Automatic Train Operation (HATO): Immersive Automatic Model Train Control System"
+tags = ["HATO", "Mitou Junior"]
 +++
 
 ![Overview of controller board with the controller UI on the bottom.](https://hato.nyiyui.ca/assets/hero_en.png)

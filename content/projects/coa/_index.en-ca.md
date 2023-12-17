@@ -1,6 +1,6 @@
 +++
 title = "Parallel-processing oriented Programming Language Coa"
-tags = ["programming"]
+tags = ["programming", "Experts in Information Science"]
 +++
 
 Authors: Ken Shibata, [Shinya Takamaeda](https://sites.google.com/site/shinyaty/home)
