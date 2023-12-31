@@ -28,7 +28,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
     [DICOMO 2022](https://tsys.jp/dicomo/2022/program/program_abst.html#3C-4) [(en)](https://tsys-jp.translate.goog/dicomo/2022/program/program_abst.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#3C-4),
     [IPSJ84 2022](https://www.ipsj.or.jp/event/taikai/84/ipsj_web2022/html/event/B-14.html) [(en)](https://www-ipsj-or-jp.translate.goog/event/taikai/84/ipsj_web2022/html/event/B-14.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp),
     [WCCE 2022 (Session 9A)](https://wcce2022.org/program.html#:~:text=14%3A00%2D16%3A00%20Session%209A%3A%20Special%20Session%20by%20National%20Institute%20of%20Informatics%2C%20Japan%3A%20A%20Poster%20Session%20for%20nominated%20secondary%20High%2Dschool%20students),
-    Toronto Science Fair 2022, Canada-wide Science Fair 2022
+    [Toronto Science Fair 2022](https://www.torontosciencefair.ca/about-us/2022-gold-medal-recipients), [Canada-wide Science Fair 2022](https://www.torontosciencefair.ca/about-us/2022-cwsf-winners)
 - [Coa](https://shibata.nyiyui.ca/projects/coa/)
   * Original parallel-oriented programming language with parallel execution as the default targetting at multi-core CPUs 
   * Presented at:
