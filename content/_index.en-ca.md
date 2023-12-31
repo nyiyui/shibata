@@ -65,8 +65,8 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 - 2022
   * [NII Expert in Information Science Program 2021](https://www.nii.ac.jp/tatsujin/)([en](https://www.nii.ac.jp/en/research/hrd/tatsujin/)): Outstanding Award [![Award](2022-03-31_EIS2021_outstanding_award_small.jpg)](2022-03-31_EIS2021_outstanding_award_eng.jpg)
   * Best Poster Award for EIS 2.0 at [the 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/index.html) [(Information Processing Society of Japan)](https://www.ipsj.or.jp/english/index.html) [![Award](/2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_small.jpg)](2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_eng.jpg)
-  * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
-  * Canada-wide Science Fair 2022: Kyokukey: Wearable Input Device Using Conductive Threads
+  * [Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads](https://www.torontosciencefair.ca/about-us/2022-gold-medal-recipients)
+  * [Canada-wide Science Fair 2022: Kyokukey: Wearable Input Device Using Conductive Threads](https://www.torontosciencefair.ca/about-us/2022-cwsf-winners)
 - 2021
   * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency, Global Science Campus, President's Award for Development of a Parallel-native Programming Language Coa: [![Award](2021-11-21_JST_GSC_President_Award_mini.jpg)](2021-11-21_JST_GSC_President_Award.jpg) 
   * [Toronto Science Fair 2021: Gold Medal for The Properties of Face Masks](https://web.archive.org/web/20210515060428/https://www.torontosciencefair.ca/about-us/2021-gold-medal-recipients)
