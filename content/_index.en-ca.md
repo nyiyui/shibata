@@ -20,6 +20,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
   * The project accepted as one of the [Mitou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) 2023 projects.
   * [HATO on Mitou Jr. official page](https://jr.mitou.org/projects/2023/hato) ([en](https://jr-mitou-org.translate.goog/projects/2023/hato?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))
   * Certificate: [![Certificate](/2023-11-03_HATO_Mitou_Jr_mini.jpg)](/2023-11-03_HATO_Mitou_Jr.jpg)
+  * Certified as Mitou Jr. Supercreator in Dec. 2023
 - [Yarnkey](https://shibata.nyiyui.ca/projects/yarnkey/)
   * Stroke-based character input device using conductive threads.
     The conductive thread sewn into pants provides six points of touch sensing, and the microcontroller recognizes characters drawn on the sensor. 
@@ -62,7 +63,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
 - 2023
   * IEEE Solid-State Circuits Society Arduino Contest Gold Award [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg)
 - 2022
-  * [NII Expert in Information Science Program 2021](https://www.nii.ac.jp/tatsujin/): Outstanding Award [![Award](2022-03-31_EIS2021_outstanding_award_small.jpg)](2022-03-31_EIS2021_outstanding_award_eng.jpg)
+  * [NII Expert in Information Science Program 2021](https://www.nii.ac.jp/tatsujin/)([en](https://www.nii.ac.jp/en/research/hrd/tatsujin/)): Outstanding Award [![Award](2022-03-31_EIS2021_outstanding_award_small.jpg)](2022-03-31_EIS2021_outstanding_award_eng.jpg)
   * Best Poster Award for EIS 2.0 at [the 84th National Convention of IPSJ](https://www.ipsj.or.jp/event/taikai/84/index.html) [(Information Processing Society of Japan)](https://www.ipsj.or.jp/english/index.html) [![Award](/2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_small.jpg)](2022-03-25_IPSJ84_poster_award_Coa_Yarnkey_eng.jpg)
   * Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads
   * Canada-wide Science Fair 2022: Kyokukey: Wearable Input Device Using Conductive Threads
