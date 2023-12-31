@@ -68,7 +68,7 @@ I enjoy maker projects and programming with Python, Go, and Rust, but I also use
     * [Canada-wide Science Fair 2022: Kyokukey: Wearable Input Device Using Conductive Threads](https://www.torontosciencefair.ca/about-us/2022-cwsf-winners)
     * [Toronto Science Fair 2022: Gold Medal for Kyokukey: Wearable Input Device Using Conductive Threads](https://www.torontosciencefair.ca/about-us/2022-gold-medal-recipients)
 - 2021
-  * JST Global Science Campus Experts in Information Science: Japan Science and Technology Agency, Global Science Campus, President's Award for Development of a Parallel-native Programming Language Coa: [![Award](2021-11-21_JST_GSC_President_Award_mini.jpg)](2021-11-21_JST_GSC_President_Award.jpg) 
+  * JST Global Science Campus [Experts in Information Science](https://www.nii.ac.jp/en/research/hrd/tatsujin/): Japan Science and Technology Agency, Global Science Campus, President's Award for Development of a Parallel-native Programming Language Coa: [![Award](2021-11-21_JST_GSC_President_Award_mini.jpg)](2021-11-21_JST_GSC_President_Award.jpg) 
   * [Toronto Science Fair 2021: Gold Medal for The Properties of Face Masks](https://web.archive.org/web/20210515060428/https://www.torontosciencefair.ca/about-us/2021-gold-medal-recipients)
   * [Canada-wide Science Fair 2021: Bronze Medal for The Properties of Face Masks](https://youthscience.ca/wp-content/uploads/2021/05/CWSF-2021-Award-Results-EN.pdf)
   * [Toronto Science Fair 2021: Bronze Medal for AI-based bus arrival time prediction system: Transference](https://web.archive.org/web/20210515052916/https://www.torontosciencefair.ca/about-us/2021-bronze-medal-recipients)
