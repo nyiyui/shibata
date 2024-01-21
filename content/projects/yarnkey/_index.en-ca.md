@@ -20,9 +20,10 @@ The new wearable device provides 6-point touch sensing with conductive threads s
 The microcomputer recognizes characters drawn in a 2D pattern on the sensor.
 It can be used in a narrow space because the sensor has an area of a few cm<sup>2</sup>.
 
-[User Evaluation App](https://yarnkey.nyiyui.ca) ([source](https://github.com/nyiyui/kyokukey) [^src])
-&bull; [Device (microcontroller) source code and support files](https://github.com/nyiyui/yarnkey)
-&bull; [TSF 2022/CWSF 2022 Exhibition](https://projectboard.world/ysc/project/kyokukey-wearable-input-device-using-conductive-threads)
+- [User Evaluation App](https://yarnkey.nyiyui.ca) ([source](https://github.com/nyiyui/kyokukey) [^src])
+- [Device (microcontroller) source code and support files](https://github.com/nyiyui/yarnkey)
+- [Paper for DICOMO 2022](/projects/yarnkey/yarnkey_dicomo-2022_en.pdf)
+- [TSF 2022/CWSF 2022 Exhibition](https://projectboard.world/ysc/project/kyokukey-wearable-input-device-using-conductive-threads)
 {{< youtube "dMT6_UEli-g" >}}
 
 [^src]: The server code is a simple PHP script.
