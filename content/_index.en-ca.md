@@ -2,15 +2,11 @@
 title = "Ken Shibata"
 +++
 
-<div style="display: flex;">
-  <img loading="lazy" src="/ken_shibata_wide.jpg" width="128px" alt="Ken Shibata&amp;rsquo;s headshot" />
-  
-  <p>
-    Hi, I'm Ken Shibata, a grade 12 student in the MaCS program at [Wiliam Lyon Mackenzie CI](https://maclyonsden.com/about?tab=history).
-    I'm interested in computer science, human-computer interaction, and 3D modeling.
-    I enjoy watching and riding trains as well as reading light novels.
-  </p>
-</div>
+{{% meishi %}}
+I'm Ken Shibata, a grade 12 student at [Wiliam Lyon Mackenzie CI](https://maclyonsden.com/about?tab=history).
+I'm interested in computer science, human-computer interaction, and 3D modeling.
+I enjoy watching and riding trains as well as reading light novels.
+{{% /meishi %}}
 
 ## Selected Projects
 
