@@ -64,3 +64,14 @@ defaultContentLanguage = 'en-ca'
   [markup.goldmark.parser]
     autoHeadingID = true
     autoHeadingIDType = 'github'
+
+[params]
+  [params.homeInfoParams]
+    Title = "Ken Shibata's Website"
+    Content = "I'm a grade 12 student at William Lyon Mackenzie CI in Toronto, Ontario, Canada. I'm interested in computer science, human-computer interaction, trains, and 3D modelling, as shown by some of my projects below."
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/nyiyui"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:+@nyiyui.ca"

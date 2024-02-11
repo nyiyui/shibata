@@ -6,7 +6,7 @@ Hi, I'm Ken Shibata, a grade 12[^grade] student in the MaCS program at Wiliam Ly
 I'm interested in computer science, light novels, and 3D modelling.
 I enjoy maker projects and programming with Python, Go, and Rust, but I also use JS, Bash, Java, and C.
 
-![Ken Shibata's headshot](/ken_shibata_wide.jpg)
+<img loading="lazy" src="/ken_shibata_wide.jpg" width="128px" alt="Ken Shibata&amp;rsquo;s headshot" />
 
 [^grade]: as of 2023-10
 
