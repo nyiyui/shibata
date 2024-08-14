@@ -19,7 +19,8 @@ Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で�
 センサ上に2Dパターンとして描いた文字をマイコンが認識し、USBを介して接続したパソコンに伝える。立った状態で手を横に下したまま、指先を数センチ四方動かすだけで入力できるため、狭い空間でも入力が可能である。
 
 [ユーザーテストアプリ](https://yarnkey.nyiyui.ca)
-&bull; [論文の英語版](/projects/yarnkey/yarnkey_dicomo-2022_en.pdf)
+&bull; [DICOMO 2022で発表した論文](/projects/yarnkey/yarnkey_dicomo-2022_ja.pdf)
+&bull; [DICOMO 2022で発表したスライド](https://docs.google.com/presentation/d/1tFMlMbAf0-CJZBCnUkoLLcBch4otMCAlcAMVbbjPzi4/edit#slide=id.p)
 &bull; [キー対応表](https://nyiyui.ca/render/index2.html)
 
 {{< youtube "ijQGRG3Er1g" >}}
