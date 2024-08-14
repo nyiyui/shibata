@@ -23,6 +23,7 @@ It can be used in a narrow space because the sensor has an area of a few cm<sup>
 - [User Evaluation App](https://yarnkey.nyiyui.ca) ([source](https://github.com/nyiyui/kyokukey) [^src])
 - [Device (microcontroller) source code and support files](https://github.com/nyiyui/yarnkey)
 - [Slides for DICOMO 2022](https://docs.google.com/presentation/d/1tFMlMbAf0-CJZBCnUkoLLcBch4otMCAlcAMVbbjPzi4/edit#slide=id.p)
+- [Paper for DICOMO 2022 (in Japanese)](/projects/yarnkey/yarnkey_dicomo-2022_ja.pdf)
 <!-- - [Paper for DICOMO 2022](/projects/yarnkey/yarnkey_dicomo-2022_en.pdf) -->
 - [TSF 2022/CWSF 2022 Exhibition](https://projectboard.world/ysc/project/kyokukey-wearable-input-device-using-conductive-threads)
 {{< youtube "dMT6_UEli-g" >}}
