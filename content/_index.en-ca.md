@@ -10,12 +10,12 @@ I enjoy watching and riding trains as well as reading light novels.
 
 ## Selected Projects
 
-- [RoboPiano](https://www.youtube.com/watch?v=bDjWjxClIV8)
+- RoboPiano ([submission video](https://www.youtube.com/watch?v=bDjWjxClIV8))
   * Piano playing robot arm controlled by Arduino single-board computer
   * Won 2023 IEEE SSCS Arudino Contest Gold Award:
     [SSCS contest website](https://www.sscs-arduino-contest.com/winners#:~:text=High%2DSchool%20Team%20Awards),
     [![Award](/2023-08-15_IEEE_SSCS_Arduino_contest_small.jpg)](/2023-08-15_IEEE_SSCS_Arduino_contest.jpg) 
-- [HATO](https://hato.nyiyui.ca/README-en.html)
+- [HATO](https://shibata.nyiyui.ca/projects/hato/)
   * Model train automated operation system supporting multiple tran control and position estimation
   * The project accepted as one of the [Mitou Jr.](https://jr.mitou.org/english/) (a government-sponsored mentoring program for high school students in Japan) 2023 projects.
   * [HATO on Mitou Jr. official page](https://jr.mitou.org/projects/2023/hato) ([en](https://jr-mitou-org.translate.goog/projects/2023/hato?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))
