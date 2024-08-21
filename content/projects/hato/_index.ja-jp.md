@@ -11,6 +11,7 @@ HATOは鉄道模型の世界に没入するためのNゲージ列車全自動運
 更に、運転指令所にあるような列車制御UI等を実装することで、鉄道模型シミュレーションの没入度を高めます。
 
 [紹介サイト](https://hato.nyiyui.ca) /
-[ソースコード](https://github.com/nyiyui/hato)
+[ソースコード](https://github.com/nyiyui/hato) /
+[発表動画](https://youtu.be/iksrkcghhdc)
 
 本プロジェクトは2023年度の未踏ジュニアに採択されました。
