@@ -3,7 +3,7 @@ title = "Ken Shibata"
 +++
 
 {{% meishi %}}
-I'm Ken Shibata, a grade 12 student at [Wiliam Lyon Mackenzie CI](https://maclyonsden.com/about?tab=history).
+I'm Ken Shibata, an undergraduate CS major at the Georgia Institute of Technology.
 I'm interested in computer science, human-computer interaction, and 3D modeling.
 I enjoy watching and riding trains as well as reading light novels.
 {{% /meishi %}}
