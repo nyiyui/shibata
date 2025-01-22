@@ -35,19 +35,19 @@ defaultContentLanguage = 'en-ca'
     [languages.ja-jp.menu]
       [[languages.ja-jp.menu.main]]
         name = '自己紹介'
-        url = '/'
+        url = '/ja-jp/'
         weight = 10
       [[languages.ja-jp.menu.main]]
         name = 'プロジェクト'
-        url = '/projects'
+        url = '/ja-jp/projects'
         weight = 20
       [[languages.ja-jp.menu.main]]
         name = 'ウェブログ'
-        url = '/log'
+        url = '/ja-jp/log'
         weight = 20
       [[languages.ja-jp.menu.main]]
         name = 'その他'
-        url = '/etc'
+        url = '/ja-jp/etc'
         weight = 40
 
 [outputs]
