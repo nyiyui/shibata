@@ -1,5 +1,6 @@
 +++
 title = "Qrystal"
+tags = ["ネットワーク"]
 summary = """
 集中管理型WireGuard設定ソフト
 """

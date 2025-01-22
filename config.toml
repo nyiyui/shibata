@@ -22,9 +22,13 @@ defaultContentLanguage = 'en-ca'
         url = '/projects'
         weight = 20
       [[languages.en-ca.menu.main]]
+        name = 'Weblog'
+        url = '/log'
+        weight = 40
+      [[languages.en-ca.menu.main]]
         name = 'Etc'
         url = '/etc'
-        weight = 30
+        weight = 40
   [languages.ja-jp]
     title = '柴田 謙'
     languageName = '日本語'
@@ -38,9 +42,13 @@ defaultContentLanguage = 'en-ca'
         url = '/projects'
         weight = 20
       [[languages.ja-jp.menu.main]]
+        name = 'ウェブログ'
+        url = '/log'
+        weight = 20
+      [[languages.ja-jp.menu.main]]
         name = 'その他'
         url = '/etc'
-        weight = 30
+        weight = 40
 
 [outputs]
   home = [ "HTML", "RSS" ]
@@ -64,14 +72,3 @@ defaultContentLanguage = 'en-ca'
   [markup.goldmark.parser]
     autoHeadingID = true
     autoHeadingIDType = 'github'
-
-[params]
-  [params.homeInfoParams]
-    Title = "Ken Shibata's Website"
-    Content = "I'm an undergraduate CS major at the Georgia Institute of Technology. I'm interested in computer science, human-computer interaction, trains, and 3D modeling, as shown by some of my projects below."
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/nyiyui"
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:+@nyiyui.ca"

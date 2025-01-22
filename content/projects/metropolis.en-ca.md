@@ -1,6 +1,6 @@
 +++
 title = "Project Metropolis"
-tags = [ "Project Metropolis" ]
+tags = [ "Web" ]
 summary = """
 A central place for all of my school's announcements, events, and timetables.
 """

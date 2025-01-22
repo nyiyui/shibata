@@ -1,6 +1,6 @@
 +++
 title = "Komorebi: HTTP middleware to dynamically resize images"
-tags = [ "Project Metropolis" ]
+tags = [ "Web" ]
 +++
 
 ![Example Image dynamically resized and encoded to WebP using Komorebi](https://maclyonsden.com/media/featured_image/b8a57d0a4ca4439987c735affd7f3859.png?fmt=webp&w=500)

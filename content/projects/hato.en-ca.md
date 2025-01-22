@@ -1,6 +1,6 @@
 +++
 title = "Hopefully Automatic Train Operation (HATO): Immersive Automatic Model Train Control System"
-tags = ["HATO", "Mitou JunI have attached my resume for the details of my experience.ior"]
+tags = ["Model Train", "Mitou Junior"]
 +++
 
 ![Overview of controller board with the controller UI on the bottom.](https://hato.nyiyui.ca/assets/hero_en.png)

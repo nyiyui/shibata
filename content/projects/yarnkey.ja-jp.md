@@ -1,6 +1,6 @@
 +++
 title = "Yarnkey/曲キー"
-tags = ["HCI", "プログラミング", "情報科学の達人"]
+tags = ["HCI", "情報科学の達人"]
 aliases = [ "/yarnkey" ]
 summary = """
 Yarnkey(以前は曲キー)は導電糸を使った片手と様々な姿勢で使えるウェラブルキーボードです。

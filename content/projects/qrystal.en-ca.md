@@ -1,5 +1,6 @@
 +++
 title = "Qrystal"
+tags = ["Networking"]
 summary = """
 Centralized WireGuard configuration utility
 """
