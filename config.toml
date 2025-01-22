@@ -1,6 +1,6 @@
 baseURL = 'https://shibata.nyiyui.ca'
 
-theme = 'PaperMod'
+theme = 'hugo-pure'
 
 enableRobotsTXT = true
 googleAnalytics = "G-PLEJM83JCR"
