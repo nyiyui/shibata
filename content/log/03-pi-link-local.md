@@ -1,11 +1,9 @@
 +++
-title = "03 Pi Link Local"
+title = "Link-Local Connection to Raspberry Pi"
 date = "2025-02-24T15:34:59-05:00"
 +++
 
 *This is a living document; content will be updated as necessary (after the initial post date).*
-
-# Link-local Connection to Raspberry Pi
 
 I needed to have a Ethernet connection from my laptop to a Raspberry Pi without any extra hardware (e.g. a router).
 Turns out this isn't as smooth as I expected (especially with NetworkManager), so the following is a list of steps to get it working.
