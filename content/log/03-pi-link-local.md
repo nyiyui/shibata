@@ -8,6 +8,10 @@ date = "2025-02-24T15:34:59-05:00"
 I needed to have a Ethernet connection from my laptop to a Raspberry Pi without any extra hardware (e.g. a router).
 Turns out this isn't as smooth as I expected (especially with NetworkManager), so the following is a list of steps to get it working.
 
+A few notes:
+- Steps below have been tested on a Raspberry Pi 3B with a ThinkPad X1 Carbon Gen 10 (running NixOS with NetworkManager).
+- The Ethernet cable type (patch/crossover) doesn't seem to matter (I suppose this is because the USB-to-Ethernet adapter and Pi both support [Auto-MDI-X](https://en.wikipedia.org/wiki/Medium-dependent_interface)).
+
 ## On The Raspberry Pi
 
 Make a new connection profile that uses Link-Local configuration for IPv4.
