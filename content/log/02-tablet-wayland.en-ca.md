@@ -1,14 +1,11 @@
 ---
 title: "All-Wayland Setup on a Touchscreen-only Tablet"
 date: 2025-01-30T17:09:19-05:00
-draft: true
 ---
-
-### TODO: add picture of final result
 
 ## The Premise
 
-I managed to dig out a ThinkPad X1 Tablet (gen. 3).
+I managed to dig out a [ThinkPad X1 Tablet Gen 3](https://www.lenovo.com/us/en/p/tablets/windows-tablets/thinkpad-series/thinkpad-x1-tablet-(3rd-gen)/22tp2cp0113).
 Since the keyboard was broken, I decided to take this as a challenge to setup a usable Wayland environment on a touchscreen-only device.
 
 This entry is composed of a semi-chronological description of each layer, starting from the BIOS to the window manager (desktop environment).
@@ -70,4 +67,39 @@ As it turns out, this worked great. Since I used Sway in the greeter too, I coul
 Now, we've gotten everything until the window manager working well on touch.
 Although I've already used Sway for the greeter, now it has to handle moving windows around, and not just have a single layout.
 As it turns out, Sway's dragging doesn't really work well on touch (the touch area is not extended beyond the visual border), and gestures weren't really a thing.
-### TODO
+
+I figured I don't use it in tablet mode when managing multiple windows (as that usually means I'm developing something with a keyboard).
+Maybe in a future blog post...
+
+### Touchscreen Gestures using lisgd
+
+[lisgd](https://sr.ht/~mil/lisgd/) is a nice little tool that reads touchscreen input events (from e.g. `/dev/input/event9`) and runs commands based on them.
+Excited, I added swipe gestures to move workspaces:
+```sh
+lisgd -d '/dev/input/event9' -v -m 800 \
+  -g '1,LR,L,*,*,swaymsg workspace prev' \
+  -g '1,RL,R,*,*,swaymsg workspace next'
+```
+And it worked...until the next reboot.
+As it turns out, the path was reset every boot, and the touchscreen device would be `/dev/input/event9` one boot, and `/dev/input/event13` the next.
+
+I ended up running `libinput list-devices` during startup to find the touchscreen by name:
+```sh
+device=$(libinput list-devices | grep -A 1 '${cfg.touchscreenDeviceName}' | grep /dev/input | awk '{print $2}')
+lisgd -d "$device" -v -m 800 \
+  -g '1,LR,L,*,*,swaymsg workspace prev' \
+  -g '1,RL,R,*,*,swaymsg workspace next'
+```
+It's not...the most elegant solution, but it works.
+
+I also added a swipe from the top to close a window.
+The final command is:
+```sh
+device=$(libinput list-devices | grep -A 1 '${cfg.touchscreenDeviceName}' | grep /dev/input | awk '{print $2}')
+lisgd -d "$device" -v -m 800 \
+  -g '1,LR,L,*,*,swaymsg workspace prev' \
+  -g '1,RL,R,*,*,swaymsg workspace next' \
+  -g '1,UD,U,*,*,swaymsg kill'
+```
+
+Package this as a user service, and you're good to go!
