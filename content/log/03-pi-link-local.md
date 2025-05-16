@@ -23,7 +23,7 @@ nmcli connection add type ethernet con-name "Link-Local Ethernet" ifname eth0 ip
 
 Note: If you're running the Pi headless, you should specify `autoconnect yes`, so NetworkManager retries without any interaction.
 
-![a new Ethernet connection profile with default settings, except IPv4 set to Link-Local and IPv6 set to Ignore](/static/log/03-pi-link-local/nmtui-ll.png)
+![a new Ethernet connection profile with default settings, except IPv4 set to Link-Local and IPv6 set to Ignore](./nmtui-ll.png)
 
 Make sure there are no other (competing) Ethernet connections (or they have a lower priority) (`nmcli connection | grep -E 'TYPE|ethernet'` or by using the TUI).
 If there are, you can either delete them with `nmcli connection delete <name>` or change their priority with `nmcli connection modify <name> connection.autoconnect-priority <priority>`.
