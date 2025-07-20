@@ -23,6 +23,8 @@ Then, you can run `nixos-install` as usual.
 TODO: motivation
 - random garbage in ~
 - some config stored in ~, and not in NixOS config?
+- no need for `cd $(mktemp -d)`, just put it in home dir
+  - easy to find where
 
 [Impermanence](https://github.com/nix-community/impermanence) is a set of NixOS modules that bind mounts directories from a "presistence" partition to paths such as `/etc/ssh`, `/etc/NetworkManager/system-connections`, `/home/nyiyui/.ssh`.
 
