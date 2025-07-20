@@ -1,7 +1,9 @@
 +++
 title = "Connecting to Eduroam using GT's New Certificate-based Authentication"
-date = "2025-07-28T15:02:00-07:00"
+date = "2025-07-20T15:02:00-07:00"
 +++
+
+*This is a living document; content will be updated as necessary (after the initial post date).*
 
 Georgia Tech has been rolling out a new TLS client certificate-based (instead of a username and password) authentication method for eduroam.
 
