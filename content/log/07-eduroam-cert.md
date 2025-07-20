@@ -53,7 +53,7 @@ Consult nmcli(1) and nmcli-examples(7) manual pages for complete usage details.
 
 ## Setup NetworkManager
 
-![nm-connection-editor window. See below for content.](/log/07-eduroam-cert/nm-eduroam-wifi-security.png)
+![nm-connection-editor window. See below for content.](./nm-eduroam-wifi-security.png)
 
 | Name                      | Value |
 |---------------------------|---|
