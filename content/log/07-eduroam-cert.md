@@ -61,11 +61,14 @@ Consult nmcli(1) and nmcli-examples(7) manual pages for complete usage details.
 | Authentication            | TLS |
 | Identity                  | gburdell3@gatech.edu |
 | Domain                    | lawn.gatech.edu |
-| CA certificate            | `usertrustrsaca [jdk].cer` |
+| CA certificate            | `usertrustrsaca [jdk].cer` [^2] |
 | CA certificate password   | *None* |
 | User certificate          | gburdell3@gatech.edu.p12 [^1] |
 | User certificate passowrd | *None* |
 | User private key          | gburdell3@gatech.edu.p12 [^1] *(auto-filled when entering User certificate)* |
 | User key password | *passphrase given in SecureW2 portal* |
+
+[^1]: This is the [PKCS #12](https://en.wikipedia.org/wiki/PKCS_12) file you downloaded in step 2.
+[^2]: Downloaded in step 3.
 
 Done!
