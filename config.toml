@@ -24,11 +24,15 @@ defaultContentLanguage = 'en-ca'
       [[languages.en-ca.menu.main]]
         name = 'Weblog'
         url = '/log'
-        weight = 40
+        weight = 30
       [[languages.en-ca.menu.main]]
         name = 'Etc'
         url = '/etc'
         weight = 40
+      [[languages.en-ca.menu.main]]
+        name = 'CV'
+        url = '/Ken_Shibata_Resume.pdf'
+        weight = 50
   [languages.ja-jp]
     title = '柴田 謙'
     languageName = '日本語'
@@ -44,11 +48,15 @@ defaultContentLanguage = 'en-ca'
       [[languages.ja-jp.menu.main]]
         name = 'ウェブログ'
         url = '/ja-jp/log'
-        weight = 20
+        weight = 30
       [[languages.ja-jp.menu.main]]
         name = 'その他'
         url = '/ja-jp/etc'
         weight = 40
+      [[languages.ja-jp.menu.main]]
+        name = 'CV'
+        url = '/Ken_Shibata_Resume.pdf'
+        weight = 50
 
 [outputs]
   home = [ "HTML", "RSS" ]
