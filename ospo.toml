@@ -1,0 +1,11 @@
+[employment]
+start = "2025-Jan"
+end = "2025-Dec"
+
+[employment.ja]
+location = [ "アメリカ", "ジョージア州", "アトランタ" ]
+position = [ "ジョージア工科大学", "College of Computing", "Open Source Program Office" ]
+notes = [
+  "研究者が HPC プログラムを長期的に再現可能な形で保存できるよう支援する文書を執筆",
+  "仮想マシンをダウンロード待ちなしでオンデマンド実行できるソフトウェアを開発"
+]

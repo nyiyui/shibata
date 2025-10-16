@@ -1,0 +1,13 @@
+[employment]
+start = "2024-Jul"
+end = "2024-Jul"
+
+[employment.en]
+location = [ "Japan", "Tokyo" ]
+position = [ "Helpfeel, Inc.", "Web Development Intern" ]
+notes = [
+  "Worked on Helpfeel Cosense, a Node.js and React-based knowledge base wiki editor with 410k users",
+  "Implemented English text input for Android and iOS", # twitter, also put # of mobile users
+  "Previously, English text input did not work"
+  "Implemented various UX improvements"
+]

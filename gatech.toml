@@ -1,0 +1,19 @@
+[education]
+start = "2024-Aug"
+end = "2028-May"
+
+[education.en]
+location = [ "United States", "Georgia", "Atlanta" ]
+position = [ "Georgia Institute of Technology", "Bachelor of Science in Computer Science (Theory and Systems & Architecture), Minor in Math" ]
+notes = [
+  "4.00 GPA",
+  "Full-ride scholarship from the Masason Foundation"
+]
+
+[education.ja]
+location = [ "アメリカ", "ジョージア州", "アトランタ" ]
+position = [ "ジョージア工科大学", "Bachelor of Science in Computer Science (Theory and Systems & Architecture), Minor in Math" ]
+notes = [
+  "4.00 GPA",
+  "奨学金: 孫正義育英財団より4年間の全額支援を受給中"
+]

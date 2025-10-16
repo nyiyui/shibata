@@ -1,0 +1,12 @@
+[employment]
+start = "2025-May"
+end = "2025-Aug"
+
+[employment.ja]
+location = [ "カナダ", "オンタリオ州", "トロント" ]
+position = [ "Marvell Semiconductor (Canada) Inc.", "ソフトウェア・ファームウェア インターン" ]
+notes = [
+  "高速SerDes IP用のマルチコアに対応したMCS-51 デバッガを開発",
+  "開発したデバッガを約40名のグローバルチームの前でデモおよび発表",
+  "組込みマイコンの高レイヤーエミュレーションを利用したユニットテストおよび自己解析フレームワークを改良"
+]

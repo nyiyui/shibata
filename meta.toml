@@ -1,0 +1,12 @@
+[meta]
+phone = "+1 (647) 853-1211"
+website = "https://shibata.kiyuri.ca"
+github = "https://github.com/nyiyui"
+linkedin = "https://linkedin.com/in/ken-shibata"
+email = [ "ken.shibata@kiyuri.ca", "kshibata6@gatech.edu" ]
+
+[meta.en]
+name = "Ken Shibata"
+
+[meta.ja]
+name = "柴田 謙"

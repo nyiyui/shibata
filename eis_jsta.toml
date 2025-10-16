@@ -1,0 +1,9 @@
+[award]
+bestowed = "2021"
+
+[award.ja]
+name = "科学技術振興機構 グローバルサイエンスキャンパス全国受講生研究発表会 理事長賞"
+# PJ関連付け
+
+[award.en]
+name = "Japan Science and Technology Agency President's Award, Global Science Campus National Student Research Conference"
