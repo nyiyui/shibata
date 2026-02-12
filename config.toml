@@ -37,6 +37,10 @@ defaultContentLanguage = 'en-ca'
         name = 'VR Demo'
         url = 'https://hr-demo-app-server.vrsa.2kendon.ca'
         weight = 60
+      [[languages.en-ca.menu.main]]
+        name = 'Wiki'
+        url = 'https://convind4.kiyuri.ca'
+        weight = 70
   [languages.ja-jp]
     title = '柴田 謙'
     languageName = '日本語'
@@ -61,6 +65,10 @@ defaultContentLanguage = 'en-ca'
         name = 'CV'
         url = '/Ken_Shibata_Resume.pdf'
         weight = 50
+      [[languages.ja-jp.menu.main]]
+        name = 'ウィキ'
+        url = 'https://convind4.kiyuri.ca'
+        weight = 70
 
 [outputs]
   home = [ "HTML", "RSS" ]
