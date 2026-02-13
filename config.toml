@@ -39,7 +39,7 @@ defaultContentLanguage = 'en-ca'
         weight = 60
       [[languages.en-ca.menu.main]]
         name = 'Wiki'
-        url = 'https://convind4.kiyuri.ca'
+        url = 'https://convind4.kiyuri.ca/list'
         weight = 70
   [languages.ja-jp]
     title = '柴田 謙'
@@ -67,7 +67,7 @@ defaultContentLanguage = 'en-ca'
         weight = 50
       [[languages.ja-jp.menu.main]]
         name = 'ウィキ'
-        url = 'https://convind4.kiyuri.ca'
+        url = 'https://convind4.kiyuri.ca/list'
         weight = 70
 
 [outputs]
