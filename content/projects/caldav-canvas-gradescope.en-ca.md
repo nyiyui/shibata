@@ -1,6 +1,7 @@
 +++
 title = "Sync Canvas and Gradescope Tasks to CalDAV"
 tags = ["Vibecoding"]
+date = "2026-02-15T17:27:00-05:00"
 +++
 
 A collection of scripts to sync my school's tasks (from Canvas and Gradescope) to my personal CalDAV server.
