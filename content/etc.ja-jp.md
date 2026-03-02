@@ -4,7 +4,7 @@ title = "その他"
 
 ## 連絡先
 
-メール: ken dot shibata at kiyuri dot ca
+メール: first dot last at kiyuri dot ca OR university domain
 
 GitHub: [nyiyui](https://github.com/nyiyui)
 

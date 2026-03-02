@@ -4,7 +4,7 @@ title = "Etc"
 
 ## Contact
 
-Email: ken dot shibata at kiyuri dot ca
+Email: first dot last at kiyuri dot ca OR university domain
 
 GitHub: [nyiyui](https://github.com/nyiyui)
 
