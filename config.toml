@@ -38,6 +38,10 @@ defaultContentLanguage = 'en-ca'
         url = 'https://hr-demo-app-server.vrsa.2kendon.ca'
         weight = 60
       [[languages.en-ca.menu.main]]
+        name = 'CAPTCHA Demo'
+        url = 'https://captcha-demo-2.vrsa.2kendon.ca'
+        weight = 60
+      [[languages.en-ca.menu.main]]
         name = 'Wiki'
         url = 'https://convind4.kiyuri.ca/list2'
         weight = 70
